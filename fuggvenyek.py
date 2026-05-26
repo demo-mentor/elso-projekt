@@ -7,3 +7,7 @@ def fuggveny2(uzenet):
 def fuggveny3(szam1, szam2):
     eredmeny = szam1 + szam2
     print("Ez a harmadik függvény, az eredmény: " + str(eredmeny))
+
+
+def fuggveny4():
+    return "Ez a negyedik függvény, visszatérési érték!"
