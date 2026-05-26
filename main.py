@@ -1,3 +1,3 @@
 print("Sziasztok, ez egy Python program!")
 
-pront("Ez egy új sor!") 
+print("Ez egy új sor!") 
